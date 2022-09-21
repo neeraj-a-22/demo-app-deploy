@@ -6,4 +6,4 @@ resources:
 images:
 - name: ghcr.io/argocon2022-workshop/demo-app
   newName: ghcr.io/neeraj-a-22/demo-app
-  newTag: 287cc061f3f8d36e163e9106699de15d6d7e4db3
+  newTag: e1e0d0948ae874edb8ba2fef49f4b9a0bc452e88
