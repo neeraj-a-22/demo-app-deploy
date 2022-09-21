@@ -3,3 +3,7 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/argocon2022-workshop/demo-app
+  newName: ghcr.io/neeraj-a-22/demo-app
+  newTag: e1e0d0948ae874edb8ba2fef49f4b9a0bc452e88
